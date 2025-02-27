@@ -1,7 +1,5 @@
 mettre les liens 
 mettre a jour les dossiers
-etude
-reformuler
 photo
 
 # Shaw Axel - Portfolio
@@ -18,7 +16,7 @@ Dans le cadre de notre cours en technologie Internet en informatique de gestion,
 
 Ce projet a permis d'intégrer des compétences dans le développement d'applications web modernes, avec une architecture complète incluant un front-end dynamique et un back-end robuste.
 
-- lien
+- [Github Repository](https://github.com/AxelShaw/ProjetMobile)
 
 ## Projet de Critiques de Films - Kotlin / .NET C# / ASP.NET
 
