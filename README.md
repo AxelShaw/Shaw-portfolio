@@ -16,7 +16,8 @@ Dans le cadre de notre cours en technologie Internet en informatique de gestion,
 
 Ce projet a permis d'intégrer des compétences dans le développement d'applications web modernes, avec une architecture complète incluant un front-end dynamique et un back-end robuste.
 
-- [Github Repository](https://github.com/AxelShaw/ProjetMobile)
+- [Github Repository Front-end](https://github.com/AxelShaw/ProjetMobile)
+- [Github Repository Back-end](https://github.com/AxelShaw/ProjetMobile)
 
 ## Projet de Critiques de Films - Kotlin / .NET C# / ASP.NET
 
@@ -30,7 +31,7 @@ Dans le cadre d'un autre cours, nous avons étendu notre site de critiques de fi
 
 Ce projet a renforcé nos compétences en développement mobile et en intégration multiplateforme.
 
--lien
+- [Github Repository](https://github.com/AxelShaw/ProjetMobile)
 
 ## Projet BomberMan - C++ / SFML
 
@@ -43,6 +44,8 @@ Le projet BomberMan a été développé en C++ en utilisant la bibliothèque SFM
 - Plateforme : Le jeu est conçu pour fonctionner nativement sous Linux, en tirant parti de l'architecture et des capacités système du système d'exploitation.
 
 Ce projet nous a permis d'approfondir notre compréhension des jeux vidéo, de la gestion des ressources en temps réel et de la programmation système.
+
+- [Github Repository](https://github.com/AxelShaw/ProjetMobile)
 
 ## Projet Java Entreprise - Jakarta / AWS / Agile Scrum
 
@@ -57,5 +60,5 @@ L'objectif principal était de concevoir et de mettre en œuvre un système de g
 
 Ce projet a été l'occasion d'approfondir nos compétences en développement Java Entreprise, ainsi qu'en gestion de projet agile.
 
--lien
+- [Github Repository](https://github.com/AxelShaw/ProjetMobile)
 
