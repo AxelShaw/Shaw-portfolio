@@ -7,6 +7,7 @@ photo
 # Shaw Axel - Portfolio
 
 ## Projet de Critiques de Films - Angular / Rider / .NET C# / ASP.NET
+
 Dans le cadre de notre cours en technologie Internet en informatique de gestion, nous avons réalisé un site web en utilisant les langages TypeScript, Angular, .NET C# et ASP.NET. Ce projet a pour objectif la création d'un site internet permettant de publier des critiques de films.
 
 - Front-end : L'interface utilisateur a été développée en Angular, en utilisant TypeScript pour une expérience interactive et réactive.
@@ -20,6 +21,7 @@ Ce projet a permis d'intégrer des compétences dans le développement d'applica
 - lien
 
 ## Projet de Critiques de Films - Kotlin / .NET C# / ASP.NET
+
 Dans le cadre d'un autre cours, nous avons étendu notre site de critiques de films en développant une application mobile en Kotlin tout en maintenant l'architecture du back-end avec .NET C# et ASP.NET. L'objectif de ce projet était de permettre aux utilisateurs d'accéder aux critiques de films et d'interagir avec le site via une application mobile, tout en conservant la logique et la gestion de données du site web.
 
 - Application mobile : L'application a été développée en Kotlin, offrant une interface fluide et réactive pour une expérience utilisateur optimale sur les plateformes Android.
@@ -45,6 +47,7 @@ Le projet BomberMan a été développé en C++ en utilisant la bibliothèque SFM
 Ce projet nous a permis d'approfondir notre compréhension des jeux vidéo, de la gestion des ressources en temps réel et de la programmation système.
 
 ## Projet Java Entreprise - Jakarta / AWS / Agile Scrum
+
 Dans le cadre de ce projet Java Entreprise, nous avons développé un système de gestion pour un établissement scolaire en utilisant Jakarta, avec AWS comme serveur. Le projet a été exécuté sur Linux, tout en adoptant la méthodologie Agile Scrum pour structurer nos démarches collaboratives.
 
 L'objectif principal était de concevoir et de mettre en œuvre un système de gestion complet pour l'établissement scolaire. Les principales fonctionnalités incluent :
