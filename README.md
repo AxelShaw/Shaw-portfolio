@@ -1,4 +1,3 @@
-mettre a jour les dossiers
 photo
 
 # Shaw Axel - Portfolio
