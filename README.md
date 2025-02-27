@@ -1,3 +1,8 @@
+mettre les liens 
+mettre a jour les dossiers
+etude
+reformuler
+
 # Shaw Axel - Portfolio
 
 ## Projet de Critiques de Films - Angular / Rider / .NET C# / ASP.NET
@@ -38,9 +43,17 @@ Le projet BomberMan a été développé en C++ en utilisant la bibliothèque SFM
 
 Ce projet nous a permis d'approfondir notre compréhension des jeux vidéo, de la gestion des ressources en temps réel et de la programmation système.
 
-## AEMT
--description
--lien
+## Projet Java Entreprise - Jakarta / AWS / Agile Scrum
+Dans le cadre de ce projet Java Entreprise, nous avons développé un système de gestion pour un établissement scolaire en utilisant Jakarta, avec AWS comme serveur . Le projet a été exécuté sur Linux, tout en adoptant la méthodologie Agile Scrum pour structurer nos démarches collaboratives.
 
-##etude
+L'objectif principal était de concevoir et mettre en œuvre un système de gestion complet pour un établissement scolaire. Les fonctionnalités principales incluent :
+
+- Gestion des enseignants : Permet aux secrétaires de gérer les informations relatives aux enseignants.
+- Répartition des Unités d'Enseignement (UE) et des Activités d'Apprentissage (AA) : Assure une organisation efficace de l'enseignement.
+- Planification des missions : Facilite la planification des missions pour les différents départements de l'établissement.
+- Gestion des emplois du temps : Permet de gérer les emplois du temps des cours, à la fois par section et par année, pour assurer une meilleure organisation et fluidité des enseignements.
+
+Ce projet a été l'occasion d'approfondir nos compétences en développement Java Entreprise, ainsi qu'en gestion de projet agile.
+
+-lien
 
