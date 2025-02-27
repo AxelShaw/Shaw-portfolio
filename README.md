@@ -1,5 +1,3 @@
-photo
-
 # Shaw Axel - Portfolio
 
 ## Projet de Critiques de Films - Angular / Rider / .NET C# / ASP.NET
