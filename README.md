@@ -1,9 +1,9 @@
-# Shaw-portfolio
+# Shaw Axel - Portfolio
 
 ## Projet
-### Angular
--description
--lien
+### Projet angular / rider
+- C'est un projet sur la création d'un site de critiques de films. L'aspect front-end est réalisé en Angular et le back-end est géré grâce à Rider, avec une base de données en SQL.
+- lien
 
 ### Mobile
 -description
