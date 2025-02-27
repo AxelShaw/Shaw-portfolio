@@ -22,9 +22,15 @@ Ce projet a renforcé nos compétences en développement mobile et en intégrati
 
 -lien
 
-## BomberMan
--description
--lien
+## Projet BomberMan - C++ / SFML
+
+Le projet BomberMan a été développé en C++ en utilisant la bibliothèque SFML (Simple and Fast Multimedia Library) pour créer un jeu vidéo fonctionnant sur Linux. L'objectif était de recréer le jeu classique de Bomberman en mettant en œuvre des concepts de programmation orientée objet et de gestion des événements en temps réel.
+
+- Langage de programmation : Le jeu a été entièrement codé en C++, ce qui nous a permis de manipuler la mémoire et les ressources système de manière optimale pour une performance accrue.
+- Bibliothèque SFML : Utilisation de SFML pour la gestion des graphiques, des entrées utilisateur, du son et de la gestion des fenêtres, garantissant ainsi une expérience de jeu fluide et immersive.
+- Plateforme : Le jeu est conçu pour fonctionner nativement sous Linux, en tirant parti de l'architecture et des capacités système du système d'exploitation.
+
+Ce projet nous a permis d'approfondir notre compréhension des jeux vidéo, de la gestion des ressources en temps réel et de la programmation système.
 
 ## AEMT
 -description
