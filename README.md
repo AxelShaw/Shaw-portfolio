@@ -1,4 +1,3 @@
-mettre les liens 
 mettre a jour les dossiers
 photo
 
@@ -16,8 +15,8 @@ Dans le cadre de notre cours en technologie Internet en informatique de gestion,
 
 Ce projet a permis d'intégrer des compétences dans le développement d'applications web modernes, avec une architecture complète incluant un front-end dynamique et un back-end robuste.
 
-- [Github Repository Front-end](https://github.com/AxelShaw/ProjetMobile)
-- [Github Repository Back-end](https://github.com/AxelShaw/ProjetMobile)
+- [Github Repository Front-end](https://github.com/AxelShaw/ProjetTiAngular)
+- [Github Repository Back-end](https://github.com/AxelShaw/ProjetTecInternetRider)
 
 ## Projet de Critiques de Films - Kotlin / .NET C# / ASP.NET
 
@@ -45,7 +44,7 @@ Le projet BomberMan a été développé en C++ en utilisant la bibliothèque SFM
 
 Ce projet nous a permis d'approfondir notre compréhension des jeux vidéo, de la gestion des ressources en temps réel et de la programmation système.
 
-- [Github Repository](https://github.com/AxelShaw/ProjetMobile)
+- [Github Repository](https://github.com/AxelShaw/BomberMan)
 
 ## Projet Java Entreprise - Jakarta / AWS / Agile Scrum
 
@@ -60,5 +59,5 @@ L'objectif principal était de concevoir et de mettre en œuvre un système de g
 
 Ce projet a été l'occasion d'approfondir nos compétences en développement Java Entreprise, ainsi qu'en gestion de projet agile.
 
-- [Github Repository](https://github.com/AxelShaw/ProjetMobile)
+- [Github Repository](https://github.com/AxelShaw/ProjetAemt)
 
